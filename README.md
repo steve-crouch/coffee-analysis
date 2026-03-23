@@ -6,7 +6,7 @@
 
 ## Installation
 
-Run the python file `analyze-coffee.py` from the terminal.
+Run the python file `analyse-coffee.py` from the terminal.
 
 ## Usage
 
